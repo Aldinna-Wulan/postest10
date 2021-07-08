@@ -14,7 +14,7 @@
     </div>
 
     <div class="link">
-        <a href="kalkulator/kalku.php">Kalkulator</a>
+        <a href="Kalkulator/kalku.php">Kalkulator</a>
     </div>
 </body>
 </html>
